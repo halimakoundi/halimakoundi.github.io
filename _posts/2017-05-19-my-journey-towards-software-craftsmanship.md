@@ -1,7 +1,7 @@
 ---
 layout: post
 name: my-journey-towards-software-craftsmanship
-title: My journey towards Software Craftsmanship.md 
+title: My journey towards Software Craftsmanship
 date: 2017-05-19 10:20:00 +00:00
 author: Halima Koundi
 canonical:
