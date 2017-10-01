@@ -9,6 +9,7 @@ canonical:
     href: https://codurance.com/2017/05/19/my-first-year-at-codurance/
 image:
    src: /images/blog/my-journey-towards-software-craftsmanship/the-way.jpeg
+excerpt: Firefighting is not a sustainable activity, and if it is what software development is about I just need to switch career again. But first I needed to find another way.
 tags:
 - apprenticeship
 - craftsmanship
