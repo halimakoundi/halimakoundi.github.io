@@ -2,7 +2,7 @@
 layout: post
 name: 2017-10-01-find-a-workplace-where-you-can-grow
 title: Find a workplace where you can grow
-date: 2017-09-01 10:20:00 +00:00
+date: 2017-10-01 10:20:00 +00:00
 author: Halima Koundi
 image:
    src: /images/blog/find-a-workplace-where-you-can-grow/a-codurance-open-space-day.jpg
@@ -50,4 +50,4 @@ At [Codurance](https://codurance.com) we have what we call _Open Space Days_; we
 As Seneca puts it in [_On the shortness of life_](https://www.goodreads.com/book/show/97412.On_the_Shortness_of_Life)  
 > it is not that we have a short space of time, but that we waste much of it. Life is long enough, and it has been given sufficiently generous measure to allow the accomplishment of the very greatest things if the whole of it is well invested.
 
-We will spend most of our lifetime at work; we might as well find a place where you can grow as an individual and develop new skills; experience things and evolve in a direction that is beneficial to both your career and your personal life.
+We will spend most of our lifetime at work; we might as well find a place where we can grow as an individual and develop new skills; experience things and evolve in a direction that is beneficial to both our career and our personal life.
