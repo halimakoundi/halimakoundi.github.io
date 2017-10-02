@@ -40,10 +40,10 @@ Thinking that people with a fixed mindset are set for a life of frustration and 
 
 People with a fixed mindset put in an environment where skills are presented as learnable; where learning and perseverance are valued; and where the leaders are presented both as resources for learning and constantly learning and improving their skills; should eventually develop an appetite for learning and experience a mindshift.
 
-![A Codurance Open Space Day]({{ site.baseurl }}/images/blog/find-a-workplace-where-you-can-grow/functional-programming-night.jpg "A Codurance Open Space Day")
+![Functional Programming night]({{ site.baseurl }}/images/blog/find-a-workplace-where-you-can-grow/functional-programming-night.jpg "Functional Programming night at Codurance Office")
 
 Many great companies, namely in the software development industry; where technologies evolve rapidly and keeping up is not a competitive advantage anymore but a necessary requirement; have understood the importance of instilling a growth mindset in their organisation. Some set aside a [X% study time](https://www.fastcodesign.com/1663137/how-3m-gave-everyone-days-off-and-created-an-innovation-dynamo), others organise coding dojos or [universities](https://8thlight.com/community/) during working hours, others foster a culture of learning by employing [embedded software craftsman](https://codurance.com/2017/08/20/my-first-steps-as-an-embedded-sw-craftswoman/).
-At [Codurance](https://codurance.com) we have what we call _Open Space Days_; we gather together at the office for a whole day and run an unconference where we can self organise our time into sessions allowing us to talk, share, experiment and exchange with our colleagues.
+At [Codurance](https://codurance.com) we have what we call _Open Space Days_; we gather together at the office for a whole day and run an unconference where we can self organise our time into sessions allowing us to talk, share, experiment and exchange with our colleagues. We also organise study evenings; some recurring and some adhoc, where we learn together on various subjects such as functional programming, category theory, security, electronics, ...
 
 # Your time is worth more than money, salary is not enough compensation for giving up on your lifetime
 
