@@ -2,7 +2,7 @@
 layout: post
 name: 2017-10-02-find-a-workplace-where-you-can-grow
 title: Find a workplace where you can grow
-date: 2017-09-02 10:20:00 +00:00
+date: 2017-09-01 10:20:00 +00:00
 author: Halima Koundi
 image:
    src: /images/blog/find-a-workplace-where-you-can-grow/a-codurance-open-space-day.jpg
