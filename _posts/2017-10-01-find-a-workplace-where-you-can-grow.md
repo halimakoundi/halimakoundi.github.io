@@ -1,6 +1,6 @@
 ---
 layout: post
-name: 2017-10-02-find-a-workplace-where-you-can-grow
+name: 2017-10-01-find-a-workplace-where-you-can-grow
 title: Find a workplace where you can grow
 date: 2017-09-01 10:20:00 +00:00
 author: Halima Koundi
