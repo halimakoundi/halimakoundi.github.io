@@ -19,11 +19,11 @@ Many [studies](http://www.greaterexpectations.org/briefing_papers/improvestudent
 
 As a professional; being encouraged to try things out or develop a certain skill is a great way to grow.
 
-When you have your colleagues telling you can run workshops on a subject you are passionate about; you first shake your head and think you will never be able to do it.
+When you have your colleagues telling you that you can run workshops on a subject you are passionate about; you first shake your head and think you will never be able to do it.
 You are shy; introvert and terrified by the thought of addressing a crowd full of strangers.
 You probably are also refrained by the imposter syndrome and think you have nothing to teach to anyone.
 
-[Ana coaching at Women Who Code London]({{ site.baseurl }}/images/blog/find-a-workplace-where-you-can-grow/ana-coaching-at-women-who-code-london.jpg "A Codurance Open Space Day")
+![Ana coaching at Women Who Code London]({{ site.baseurl }}/images/blog/find-a-workplace-where-you-can-grow/ana-coaching-at-women-who-code-london.jpg "A Codurance Open Space Day")
 
 Then you are tasked to build a training session on that subject and you have no choice but to go and put together all the learnings you have done and all your experiences. Suddenly you realise you had things to say; and you had skills to share.
 Then you are asked by another colleague who is in great need of volunteers and believe you have great abilities to help; being patient and having the experience of a self learner makes you a great coach for beginners willing to learn to code. You go out your comfort zone to help out for a great cause and exercise your public speaking and coaching skills.
@@ -34,13 +34,13 @@ You grow your public profile and you widen your skillset.
 
 # Surround yourself with people who have a growth mindset
 
-In her book, [_Mindset: how you can fulfill your potential_](https://www.amazon.co.uk/Mindset-How-Fulfil-Your-Potential/dp/1780332009), Carol dweck states that our mindset is the basis of our accomplishments. She explains how people with a fixed mindset hinder their chances to succeed as they believe that intelligence can’t be changed and therefore avoid challenges, give up easily and see effort as pointless. On the contrary to people with a growth mindset who will see effort as a way to mastery acting upon active criticism and persisting in the face of obstacles.
+In her book, [_Mindset: how you can fulfill your potential_](https://www.amazon.co.uk/Mindset-How-Fulfil-Your-Potential/dp/1780332009), Carol Dweck states that our mindset is the basis of our accomplishments. She explains how people with a fixed mindset hinder their chances to succeed as they believe that intelligence can’t be changed and therefore avoid challenges, give up easily and see effort as pointless. On the contrary to people with a growth mindset who will see effort as a way to mastery acting upon active criticism and persisting in the face of obstacles.
 
 Thinking that people with a fixed mindset are set for a life of frustration and inability to learn new skills and improve themselves; is in itself a fixed mindset thought. 
 
 People with a fixed mindset put in an environment where skills are presented as learnable; where learning and perseverance are valued; and where the leaders are presented both as resources for learning and constantly learning and improving their skills; should eventually develop an appetite for learning and experience a mindshift.
 
-[A Codurance Open Space Day]({{ site.baseurl }}/images/blog/find-a-workplace-where-you-can-grow/functional-programming-night.jpg "A Codurance Open Space Day")
+![A Codurance Open Space Day]({{ site.baseurl }}/images/blog/find-a-workplace-where-you-can-grow/functional-programming-night.jpg "A Codurance Open Space Day")
 
 Many great companies, namely in the software development industry; where technologies evolve rapidly and keeping up is not a competitive advantage anymore but a necessary requirement; have understood the importance of instilling a growth mindset in their organisation. Some set aside a [X% study time](https://www.fastcodesign.com/1663137/how-3m-gave-everyone-days-off-and-created-an-innovation-dynamo), others organise coding dojos or [universities](https://8thlight.com/community/) during working hours, others foster a culture of learning by employing [embedded software craftsman](https://codurance.com/2017/08/20/my-first-steps-as-an-embedded-sw-craftswoman/).
 At [Codurance](https://codurance.com) we have what we call _Open Space Days_; we gather together at the office and run an open space day unconference where we can self organise our time into sessions and talk, share, experiment and exchange with our colleagues.
