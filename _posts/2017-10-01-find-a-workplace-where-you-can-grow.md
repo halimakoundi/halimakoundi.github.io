@@ -23,6 +23,8 @@ When you have your colleagues telling you can run workshops on a subject you are
 You are shy; introvert and terrified by the thought of addressing a crowd full of strangers.
 You probably are also refrained by the imposter syndrome and think you have nothing to teach to anyone.
 
+[Ana coaching at Women Who Code London]({{ site.baseurl }}/images/blog/find-a-workplace-where-you-can-grow/ana-coaching-at-women-who-code-london.jpg "A Codurance Open Space Day")
+
 Then you are tasked to build a training session on that subject and you have no choice but to go and put together all the learnings you have done and all your experiences. Suddenly you realise you had things to say; and you had skills to share.
 Then you are asked by another colleague who is in great need of volunteers and believe you have great abilities to help; being patient and having the experience of a self learner makes you a great coach for beginners willing to learn to code. You go out your comfort zone to help out for a great cause and exercise your public speaking and coaching skills.
 
